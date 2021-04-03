@@ -6,12 +6,6 @@
 
 
 - 🌱 I’m currently learning **Django**
-
-
-
-- 📫 Contact me **[here](neenuchacko@live.in)**
-
-
 - ⚡ Fun fact **People often call me a Psycho**
 
 
