@@ -1,10 +1,11 @@
 # Hello I'm N-C-M
 
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N-C-M&theme=algolia" alt="N-C-M" /></p>
 
-
-[![N-C-M's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-C-M&show_icons=true&theme=dark)](https://github.com/N-C-M)
-
+<br>
+<br>
 
 ## 📚 My Skills
 
