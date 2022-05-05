@@ -2,13 +2,6 @@
 
 
 
-## 🌝 About Me
-
-
-- 🌱 I’m currently learning **Django**
-- ⚡ Fun fact **People often call me a Psycho**
-
-
 
 [![N-C-M's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-C-M&show_icons=true&theme=dark)](https://github.com/N-C-M)
 
